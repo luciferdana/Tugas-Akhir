@@ -1,2 +1,2 @@
-# ta_if_mct
-Template for Final Project under MCT Supervision at Insitut Teknologi Sumatera
+# Project Title
+This is the short explanation about the title of the project.
