@@ -10,3 +10,8 @@
 
 ### 2025-07-27
 -Add Study Literatur
+
+# August
+
+### 2025-08-24
+- Selected the [google/vit-base-patch16-224](https://huggingface.co/google/vit-base-patch16-224) model
