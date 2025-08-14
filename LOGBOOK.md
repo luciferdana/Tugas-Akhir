@@ -13,5 +13,5 @@
 
 # August
 
-### 2025-08-24
+### 2025-08-14
 - Selected the [google/vit-base-patch16-224](https://huggingface.co/google/vit-base-patch16-224) model
