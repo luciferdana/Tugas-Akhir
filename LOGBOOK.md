@@ -15,3 +15,6 @@
 
 ### 2025-08-14
 - Selected the [google/vit-base-patch16-224](https://huggingface.co/google/vit-base-patch16-224) model
+
+### 2025-08-31
+- Data Exploration 
